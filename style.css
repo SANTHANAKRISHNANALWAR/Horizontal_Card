@@ -114,6 +114,7 @@ body{
 
 .price h4{
     font-size: 3rem;
+    word-wrap: break-word;
 }
 
 .price p{
