@@ -145,7 +145,7 @@ svg {
     color: #008000;
     font-size: 2rem;
     font-weight: 500;
-    text-wrap: wrap;
+    word-wrap: wrap;
 }
 
 .price span s{
